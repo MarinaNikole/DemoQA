@@ -14,4 +14,4 @@ Automated testing API
 https://github.com/MarinaNikole/BookStoreAPI_Gradle_TestNG
 
 
-[Project presentation](https://docs.google.com/presentation/d/1y7507wJXAxOCLQ8Smoy7YVhZu3xWQHFe2k9BzWzViTI/edit#slide=id.g2a6d00a9476_0_40)
+[Project Presentation](https://docs.google.com/presentation/d/1y7507wJXAxOCLQ8Smoy7YVhZu3xWQHFe2k9BzWzViTI/edit#slide=id.g2a6d00a9476_0_40)
