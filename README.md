@@ -5,7 +5,8 @@ In this project, I have tested the web-based book management system available at
 
 Automated testing UI(+API) 
 https://github.com/MarinaNikole/BookStoreUI_Selenide_Maven_Junit
-<img width="534" alt="Screenshot 2023-12-05 135618" src="https://github.com/MarinaNikole/DemoQA/assets/126466977/5f5985d5-5352-4360-956e-6aa7abc343a5">
+<img width="534" alt="Screenshot 2023-12-05 135618" src="https://github.com/MarinaNikole/DemoQA/assets/126466977/a38aaaa3-72e8-4433-9470-986f36b25140">
+
 
 
 Automated testing UI 
