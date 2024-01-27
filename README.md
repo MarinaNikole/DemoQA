@@ -3,7 +3,7 @@
 In this project, I have tested the web-based book management system available at "https://demoqa.com/books".
 
 
-**1**.Automated testing UI(+API) 
+**1**. Automated testing UI(+API) 
 https://github.com/MarinaNikole/BookStoreUI_Selenide_Maven_Junit
 
 <img width="534" alt="Screenshot 2023-12-05 135618" src="https://github.com/MarinaNikole/DemoQA/assets/126466977/a38aaaa3-72e8-4433-9470-986f36b25140">
@@ -12,7 +12,7 @@ https://github.com/MarinaNikole/BookStoreUI_Selenide_Maven_Junit
 
 
 
-**2**.Automated testing UI 
+**2**. Automated testing UI 
 https://github.com/MarinaNikole/BookStoreUI_Cucumber
 
 
@@ -22,7 +22,7 @@ https://github.com/MarinaNikole/BookStoreUI_Cucumber
 
 
 
-**3**.Automated testing API
+**3**. Automated testing API
 https://github.com/MarinaNikole/BookStoreAPI_Gradle_TestNG
 
 
